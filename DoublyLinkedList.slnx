@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DoublyLinkedList/DoublyLinkedList.csproj" />
+  <Project Path="DoublyLinkedListTests/DoublyLinkedListTests.csproj" Id="ba5100bd-6668-4408-b181-5ffe02d08b55" />
+</Solution>
